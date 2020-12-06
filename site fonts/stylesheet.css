@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'proxy_9regular';
-    src: url('https://l-l-a-m-a.github.io/32penniestradingsite/site%20fonts/mtproxy9-webfont.eot');
-    src: url('https://l-l-a-m-a.github.io/32penniestradingsite/site%20fonts/mtproxy9-webfont.eot?#iefix') format('embedded-opentype'),
-         url('https://l-l-a-m-a.github.io/32penniestradingsite/site%20fonts/mtproxy9-webfont.woff2') format('woff2'),
-         url('https://l-l-a-m-a.github.io/32penniestradingsite/site%20fonts/mtproxy9-webfont.woff') format('woff'),
-         url('https://l-l-a-m-a.github.io/32penniestradingsite/site%20fonts/mtproxy9-webfont.ttf') format('truetype'),
-         url('https://l-l-a-m-a.github.io/32penniestradingsite/site%20fonts/mtproxy9-webfont.svg#proxy_9regular') format('svg');
+    src: url('mtproxy9-webfont.eot');
+    src: url('mtproxy9-webfont.eot?#iefix') format('embedded-opentype'),
+         url('mtproxy9-webfont.woff2') format('woff2'),
+         url('mtproxy9-webfont.woff') format('woff'),
+         url('mtproxy9-webfont.ttf') format('truetype'),
+         url('mtproxy9-webfont.svg#proxy_9regular') format('svg');
     font-weight: normal;
     font-style: normal;
 
